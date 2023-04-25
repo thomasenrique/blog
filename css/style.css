@@ -21,6 +21,7 @@ body {
 }
 body .body {
 	height: 100%;
+	background-color: b;
 }
 .cover {
 	position: absolute;
@@ -520,15 +521,16 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 }
 .portfolio_menu ul li{
     display: inline-block;
+    color: w;
 }
 .portfolio_menu ul li a{
-	color: #363940;
+	color: #ffffff;
 	background: transparent;
-    display: inline-block;
-    margin: 4px;
-    padding: 8px 10px;
-    text-decoration: none;
-    text-transform: uppercase;
+	display: inline-block;
+	margin: 4px;
+	padding: 8px 10px;
+	text-decoration: none;
+	text-transform: uppercase;
 }
 .portfolio_content{}
 .portfolio_single_content{
